@@ -4,7 +4,17 @@ body {
 }
 
 .header-component h1 {
-  
+  background: white;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 3em;
+  width: 100%;
+}
+
+.subtitle {
+  text-align: center;
+  font-style: italic;
+  text-transform: lowercase;
 }
 
 .post-list {

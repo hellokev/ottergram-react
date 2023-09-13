@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import Barry from './otters/otter1.jpg';
 import Robin from './otters/otter2.jpg';
@@ -11,6 +10,7 @@ function App() {
     <div>
       <header className='header-component'>
         <h1>Ottergram</h1>
+        <p className="subtitle">The most loving Otters</p>
       </header>
       <ul className='post-list'>
         <li className='post-component'>
